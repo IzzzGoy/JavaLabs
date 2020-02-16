@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Graphics">
+    <output-path>$PROJECT_DIR$/out/artifacts/Graphics</output-path>
+    <root id="archive" name="Graphics.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/out/production/Java 4.1/ru/novsu/povt/sas/graphics" />
+      <element id="dir-copy" path="$PROJECT_DIR$/out/production/Java 4.1/META-INF" />
+    </root>
+  </artifact>
+</component>
